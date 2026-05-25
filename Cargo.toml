@@ -6,6 +6,9 @@ authors = ["Aemilia M. Shen <aemilia.shene89de6@tutamail.com>"]
 description = "A small typed lambda calculus interpreter"
 license = "MIT"
 repository = "https://github.com/aemeath-ink/milktea"
+keywords = ["lambda-calculus", "interpreter", "type-theory", "stlc", "teaching"]
+categories = ["compilers", "command-line-utilities"]
+readme = "README.md"
 
 [dependencies]
 rustyline = "14"
